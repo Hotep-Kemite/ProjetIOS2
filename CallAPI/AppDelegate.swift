@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  CallAPI
-//
-//  Created by Quentin Genevois on 27/01/2021.
-//
 
 import UIKit
 
